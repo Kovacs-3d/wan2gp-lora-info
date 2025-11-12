@@ -11,6 +11,6 @@ The plugin tries to download the **JSON** data from **Civitai** and load the inf
 If **no JSON** is found, it creates an empty one that users can fill in manually.  
 If some data is missing from the downloaded Civitai JSON, users can **edit the JSON** file to complete it.  
 The **Trained words** and **File name:** texts can be clicked to automatically copy their contents.  
-**A short video guide is also available for reference:**
+**A short video guide is also available for reference:**  
 
 If you find any bugs or want to improve the plugin, feel free to contribute — I’d really appreciate it.
