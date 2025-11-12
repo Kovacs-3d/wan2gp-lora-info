@@ -13,4 +13,4 @@ If some data is missing from the downloaded Civitai JSON, users can **edit the J
 The **Trained words** and **File name:** texts can be clicked to automatically copy their contents.  
 **A short video guide is also available for reference:**  
 <video src="https://github.com/user-attachments/assets/87661446-ef6d-424f-a2f4-116490ca6823.mp4"></video>
-If you find any bugs or want to improve the plugin, feel free to contribute — I’d really appreciate it.
+If you find any bugs and fix them, I’d really appreciate it — I'm not a pro developer :D
